@@ -93,4 +93,4 @@ No external drag-and-drop libraries were used.
 * If I had more time, I would refactor the drag-and-drop logic to support smoother animations and touch devices using pointer events instead of relying only on drag events. I would also break some UI parts into smaller reusable components to improve maintainability.
 ---
 ## Light house performance images:
-![alt text](image.png)
+![alt text](image-1.png)
